@@ -11,5 +11,5 @@ package domein;
  */
 public class Test
 {
-    
+    String test;
 }
