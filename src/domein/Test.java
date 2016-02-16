@@ -11,5 +11,6 @@ package domein;
  */
 public class Test
 {
+    private String test30000;
     String test;
 }
